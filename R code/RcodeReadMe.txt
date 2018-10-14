@@ -1,0 +1,1 @@
+This R code is for “sentiment change” of conversations before and after airline official replies. The conversations which mentioned "delay", "cancelled" or "connection".
